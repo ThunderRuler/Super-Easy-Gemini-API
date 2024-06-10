@@ -20,7 +20,7 @@ This Python script provides a VERY basic GUI for messaging the Google Gemini API
 
 - API key (get at https://aistudio.google.com/app/apikey)
 - Python 3.7 or higher (https://www.python.org/downloads/)
-- Google AI Python SDK: `pip install -q -U google-generativeai`
+- Google AI Python SDK: `pip install -q -U google-generativeai` (https://ai.google.dev/gemini-api/docs/quickstart?lang=python)
 
 ## How to run
 1. run the .py file 
