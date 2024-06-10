@@ -15,6 +15,9 @@ This Python script provides a VERY basic GUI for messaging the Google Gemini API
 - **System Instructions:**  Uses a `instructions.txt` file to provide system instructions to the Gemini model, guiding its responses and behavior.
 - **Regenerate Last Message:**  Use the "Regen" button to remove the last two messages (bot's response and user's message) from the chat history, copy the user's last message into the input field, and start a new chat session with the remaining history. This allows you to edit and resend your last message for regeneration.
 
+## Settings
+To edit the model temperature and model type (gemini-1.5-pro / gemini-1.5-flash) you must edit the .py file itself. All Saftey filters are turned **OFF** by default.
+
 ## Requirements
 ### ( in order )
 
