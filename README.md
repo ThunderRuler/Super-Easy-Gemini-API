@@ -1,4 +1,4 @@
-This is intended to be a very quick way to interact witht he Gemini API. Simply download the .py file and run it (so long as python and google-generativeai is installed)
+This is intended to be a very quick way to interact witht he Gemini API. Simply download the .py file and run it (so long as python and google-generativeai are installed)
 
 If all you want to do is chat with the API and *that's it*. This should be perfect.
 
