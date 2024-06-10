@@ -29,5 +29,5 @@ This Python script provides a VERY basic GUI for messaging the Google Gemini API
 ## Contributions are welcome
 This is a side project and I used Gemini to help make this script so if there's something that can be improved feel free to create a pull request. 
 
-**License
+## License
 This project is licensed under the MIT License.
